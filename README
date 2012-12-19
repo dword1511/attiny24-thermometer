@@ -1,0 +1,2 @@
+This is a easy-to-assemble thermometer based on the ATTINY24 AVR microcontroller and the DS18B20 one-wire digital temperature sensor. Measured temperature is displayed via a common cathode segment LED display.
+CD4511 is used to save GPIO pins of the microcontroller, and ULN2003 eliminates the need of transistors and resistors in the digit driving circuit.
